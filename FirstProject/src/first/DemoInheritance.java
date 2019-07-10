@@ -18,7 +18,7 @@ class calveryadv extends caladv
 		return i*j;
 	}
 }
-public class demoinheritance{
+public class DemoInheritance{
 	public static void main(String[] args) {
 		calveryadv c1 = new calveryadv();
 		int result1 = c1.add(3,5);
